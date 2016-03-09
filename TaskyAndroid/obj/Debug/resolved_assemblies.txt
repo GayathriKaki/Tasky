@@ -1,0 +1,14 @@
+D:\gayathri\projects\Tasky\TaskyAndroid\obj\Debug\assemblies\TaskyAndroid.dll
+D:\gayathri\projects\Tasky\TaskyAndroid\obj\Debug\assemblies\Mono.Android.dll
+D:\gayathri\projects\Tasky\TaskyAndroid\obj\Debug\assemblies\Mono.Data.Sqlite.dll
+D:\gayathri\projects\Tasky\TaskyAndroid\obj\Debug\assemblies\mscorlib.dll
+D:\gayathri\projects\Tasky\TaskyAndroid\obj\Debug\assemblies\System.Core.dll
+D:\gayathri\projects\Tasky\TaskyAndroid\obj\Debug\assemblies\System.Data.dll
+D:\gayathri\projects\Tasky\TaskyAndroid\obj\Debug\assemblies\System.dll
+D:\gayathri\projects\Tasky\TaskyAndroid\obj\Debug\assemblies\System.Xml.dll
+D:\gayathri\projects\Tasky\TaskyAndroid\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\gayathri\projects\Tasky\TaskyAndroid\obj\Debug\assemblies\System.ServiceModel.Internals.dll
+D:\gayathri\projects\Tasky\TaskyAndroid\obj\Debug\assemblies\System.Transactions.dll
+D:\gayathri\projects\Tasky\TaskyAndroid\obj\Debug\assemblies\System.Numerics.dll
+D:\gayathri\projects\Tasky\TaskyAndroid\obj\Debug\assemblies\Mono.Data.Tds.dll
+D:\gayathri\projects\Tasky\TaskyAndroid\obj\Debug\assemblies\Mono.Security.dll
